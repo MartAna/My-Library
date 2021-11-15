@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mоя библиотека</string>
+    <string name="game">Игра</string>
+    <string name="my_book">Мои книги</string>
 </resources>
