@@ -3,4 +3,7 @@
     <string name="app_name">Mоя библиотека</string>
     <string name="game">Игра</string>
     <string name="my_book">Мои книги</string>
+    <string name="my_wishlist">Мои пожелания</string>
+    <string name="i_will_read">Я буду читать:</string>
+    <string name="choice">Выбрать</string>
 </resources>

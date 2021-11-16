@@ -2,4 +2,7 @@
     <string name="app_name">My Library</string>
     <string name="game">Game</string>
     <string name="my_book">My book</string>
+    <string name="my_wishlist">My wishlist</string>
+    <string name="i_will_read">I will read:</string>
+    <string name="choice">Choice</string>
 </resources>
